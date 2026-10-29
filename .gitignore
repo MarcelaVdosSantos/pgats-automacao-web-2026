@@ -1,0 +1,22 @@
+node_modules/
+
+# Cypress generated artifacts
+cypress/screenshots/
+cypress/videos/
+cypress/downloads/
+.env.test
+.env.production
+node_modules
+log
+results
+# cypress
+cypress/reports
+cypress/screenshots
+browserstack.json
+
+npm_install_debug.log
+anotacoes.md
+.DS_Store
+diretrizes-arquitetura-projeto-v2.md
+diretrizes-arquitetura-projeto-v3.md
+diretrizes-arquitetura-projeto.md
